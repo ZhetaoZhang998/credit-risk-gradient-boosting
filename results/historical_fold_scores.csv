@@ -1,0 +1,21 @@
+model,fold,auc,provenance,train_rows
+CatBoost,1,0.8332911561262885,saved_original_output,50000
+CatBoost,2,0.8079312160143255,saved_original_output,50000
+CatBoost,3,0.8056020911305175,saved_original_output,50000
+CatBoost,4,0.8343347698496568,saved_original_output,50000
+CatBoost,5,0.8129107948323185,saved_original_output,50000
+LightGBM,1,0.8371779982762928,saved_original_output,50000
+LightGBM,2,0.8073552154471865,saved_original_output,50000
+LightGBM,3,0.8063278480761995,saved_original_output,50000
+LightGBM,4,0.8296268069398012,saved_original_output,50000
+LightGBM,5,0.8094372448642513,saved_original_output,50000
+LightGBM GOSS,1,0.8448526151830098,saved_original_output,50000
+LightGBM GOSS,2,0.8120508508398121,saved_original_output,50000
+LightGBM GOSS,3,0.8186290817639953,saved_original_output,50000
+LightGBM GOSS,4,0.831424416587115,saved_original_output,50000
+LightGBM GOSS,5,0.8223784707971546,saved_original_output,50000
+LightGBM balanced,1,0.8246275000621213,saved_original_output,50000
+LightGBM balanced,2,0.8081619444466325,saved_original_output,50000
+LightGBM balanced,3,0.8041043717037301,saved_original_output,50000
+LightGBM balanced,4,0.8137377185711312,saved_original_output,50000
+LightGBM balanced,5,0.8130419288512859,saved_original_output,50000

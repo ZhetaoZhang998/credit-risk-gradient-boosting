@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="420" viewBox="0 0 1440 420" role="img" aria-labelledby="title desc">
+<title id="title">Credit risk prediction</title><desc id="desc">A warm, minimal project cover for LightGBM and CatBoost credit-risk modeling. Shapes are decorative, not experimental data.</desc>
+<rect width="1440" height="420" rx="20" fill="#faf8f3"/>
+<path d="M1050 0H1440V420H1182C1090 353 1099 269 1060 210C1028 162 978 90 1050 0Z" fill="#eef0e7"/>
+<text x="66" y="74" font-family="Arial,sans-serif" font-size="16" letter-spacing="3" fill="#627262">APPLIED MACHINE LEARNING</text>
+<text x="62" y="181" font-family="Georgia,serif" font-size="76" fill="#25372c">Credit risk</text>
+<text x="62" y="270" font-family="Georgia,serif" font-size="76" fill="#25372c">prediction</text>
+<text x="66" y="330" font-family="Arial,sans-serif" font-size="23" fill="#58665c">Learning from financial histories.</text>
+<rect x="66" y="360" width="222" height="31" rx="15" fill="#e4eadd"/>
+<text x="85" y="381" font-family="Arial,sans-serif" font-size="15" fill="#49604d">LightGBM &amp; CatBoost</text>
+<g transform="translate(984 58)">
+<rect x="108" y="47" width="237" height="194" rx="19" fill="#d2ddc7" transform="rotate(11 225 144)"/>
+<rect x="44" y="107" width="237" height="194" rx="19" fill="#8ba88d" transform="rotate(-10 162 204)"/>
+<rect x="10" y="149" width="237" height="194" rx="19" fill="#3c6150"/>
+<path d="M43 296C89 299 93 243 130 251S180 194 213 200" fill="none" stroke="#e0ead6" stroke-width="5" stroke-linecap="round"/>
+<circle cx="43" cy="296" r="6" fill="#e0ead6"/><circle cx="130" cy="251" r="6" fill="#e0ead6"/><circle cx="213" cy="200" r="6" fill="#e0ead6"/>
+<circle cx="313" cy="269" r="29" fill="#bd9471"/>
+</g></svg>
