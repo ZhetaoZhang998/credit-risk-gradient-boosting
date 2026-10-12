@@ -87,8 +87,7 @@ The test template's ten examples are unlabeled; they exercise formatting, not ac
 
 - [Method and implementation changes](docs/METHOD.md)
 - [Original notebook and saved outputs](reference/original_notebook.ipynb)
-- [2024 course report](reports/STOR565_Final_Report.pdf)
-- [中文上传和运行说明](START_HERE_CN.md)
+- [report](reports/STOR565_Final_Report.pdf)
 
 The report describes other experiments, including XGBoost and stacking. This repository follows the newly supplied **CatBoost/LightGBM soft-voting notebook** and does not claim to reproduce those other experiments.
 
@@ -100,8 +99,6 @@ python -m unittest discover -s tests -v
 
 Tests use synthetic records to check aggregation, date transformations, category handling, and validation boundaries. Synthetic tests do not establish performance on real credit data.
 
-## Credits
+## Maintainer
 
-The supplied STOR 565 report lists **Ziqian Zhang, Yinyu Yao, Kaixun Chen, Biying Xiu, and Zhetao Zhang**. This is a group course project, separate from the credit-risk publication listed on Zhetao's CV. Individual contributions should be described from project records rather than inferred from the notebook. Repository cleanup and the new reproducibility code were prepared with AI assistance.
-
-Maintained by [Zhetao Zhang](https://github.com/ZhetaoZhang998). Dataset credit: Home Credit and Kaggle.
+**[Zhetao Zhang](https://github.com/ZhetaoZhang998)**
